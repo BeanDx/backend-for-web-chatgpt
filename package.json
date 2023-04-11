@@ -1,0 +1,13 @@
+{
+  "engines": {
+    "node": "14.x" 
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "node-fetch": "^3.3.1"
+  }
+}
